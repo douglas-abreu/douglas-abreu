@@ -8,7 +8,7 @@
 - Bootstrap 4
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-abreu&hide=html&layout=compact&theme=radical" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-abreu&hide=html&layout=compact&theme=dark" />
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=douglas-abreu&theme=radical&show_icons=true" />
 </p>
 
