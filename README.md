@@ -11,5 +11,5 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-abreu&hide=html&layout=compact&theme=dark" />
 </p>
 <p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=douglas-abreu&theme=radical&show_icons=true" />
+  
 </p>
