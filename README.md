@@ -6,6 +6,7 @@
 - HTML
 - CSS3
 - Bootstrap 4
+- Java
 
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-abreu&layout=compact&theme=dark" />
