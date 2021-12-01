@@ -20,14 +20,7 @@
 
 ## Meus contatos: ⤵️
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-oliveira-92a9831b5/)]     (https://www.linkedin.com/in/douglas-oliveira-92a9831b5/)
-  
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/douguen7/)](https://www.instagram.com/douguen7/)
-</p>  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-oliveira-92a9831b5/)](https://www.linkedin.com/in/douglas-oliveira-92a9831b5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/douguen7/)](https://www.instagram.com/douguen7/)
 
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-abreu&layout=compact&theme=dark&hide=html,css" />
