@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Graduando em Tecnologia em Sistemas para Internet, em uma busca constante de crescimento pessoal e profissional.
+  Graduado em Tecnologia em Sistemas para Internet, em uma busca constante de crescimento pessoal e profissional.
 </p>
 
 ## Minhas Skills
