@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Graduado em Tecnologia em Sistemas para Internet, em uma busca constante de crescimento pessoal e profissional.
+  Graduado em Tecnologia em Sistemas para Internet, atuando há mais de 3 anos como Desenvolvedor FullStack. Tendo como principais skills Springboot, Angular e Postgres.
 </p>
 
 ## Minhas Skills
